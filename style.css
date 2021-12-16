@@ -1,0 +1,15 @@
+img{
+    height: 200px;
+    width: 150px;
+}
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.d{
+    background-color: dimgray;
+    border-radius: 50px;
+    width: 80%;
+    height: 50%;
+}
